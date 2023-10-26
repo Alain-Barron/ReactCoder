@@ -1,0 +1,6 @@
+.carrito{
+    display: flex;
+    margin-top: 20px;
+    padding-right: 50px;
+    gap: 8px;
+}
