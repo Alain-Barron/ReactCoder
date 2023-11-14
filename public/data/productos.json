@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "nombre":"Canasto de Ropa Sucia",
+        "precio":8500,
+        "img":"/img/cesto_canasto_ropa.webp",
+        "descripcion":"Canasto para la ropa sucia moderno",
+        "stock":10,
+        "categoria":"Hogar"
+    },
+    {
+        "id":2,
+        "nombre":"Juego de Sillas Comedor",
+        "precio":62000,
+        "img":"/img/silla_comedor.webp",
+        "descripcion":"Juego de sillas para tu comedor",
+        "stock":10,
+        "categoria":"Hogar"
+    },
+    {
+        "id":3,
+        "nombre":"Kit de Cocina Hudson",
+        "precio":74000,
+        "img":"/img/set_cocina_hudson.webp",
+        "descripcion":"Set de cocina HUDSON con teflon doble",
+        "stock":10,
+        "categoria":"Hogar"
+    },
+    {
+        "id":4,
+        "nombre":"Calza Larga Ruge Flash Mujer",
+        "precio":14999,
+        "img":"/img/calza.webp",
+        "descripcion":"Calza larga mujer para entrenar",
+        "stock":10,
+        "categoria":"Moda"
+    },
+    {
+        "id":5,
+        "nombre":"Remera Converse Mujer",
+        "precio":14999,
+        "img":"/img/remera.webp",
+        "descripcion":"Remera Converse Negra para mujer",
+        "stock":10,
+        "categoria":"Moda"
+    },
+    {
+        "id":6,
+        "nombre":"Conjunto Deportivo Mujer",
+        "precio":35000,
+        "img":"/img/conjunto_deportivo.webp",
+        "descripcion":"Conjunto deportivo tiro alto sin costuras",
+        "stock":10,
+        "categoria":"Moda"
+    },
+    {
+        "id":7,
+        "nombre":"SONY Playstation 5",
+        "precio":810000,
+        "img":"/img/play5.webp",
+        "descripcion":"Consola PlayStation 5",
+        "stock":10,
+        "categoria":"Tecnologia"
+    },
+    {
+        "id":8,
+        "nombre":"Auriculares HyperX",
+        "precio":119000,
+        "img":"/img/auris.webp",
+        "descripcion":"Auriculares Hyper X Cloud II Wireless",
+        "stock":10,
+        "categoria":"Tecnologia"
+    },
+    {
+        "id":9,
+        "nombre":"Microfono HyperX",
+        "precio":142999,
+        "img":"/img/micro.webp",
+        "descripcion":"Microfono HyperX QuadCast S",
+        "stock":10,
+        "categoria":"Tecnologia"
+    }
+]

@@ -1,0 +1,13 @@
+.main-container{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    padding-top: 150px;
+    align-items: center;
+}
+
+.detalles-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

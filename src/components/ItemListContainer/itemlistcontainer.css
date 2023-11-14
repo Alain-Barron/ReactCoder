@@ -1,4 +1,9 @@
-.h1-greeting{
-    margin: 30px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.contenedorProductos{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+    width: 70%;
+    gap: 100px;
+    margin: 0 auto;
+    padding-top: 70px;
 }
